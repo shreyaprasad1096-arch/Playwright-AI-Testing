@@ -12,7 +12,7 @@ npx playwright install
 Set the application URL in `.env` or pass it when running tests:
 
 ```bash
-BASE_URL=https://your-store.example npm test
+
 ```
 
 ## Run tests
